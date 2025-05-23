@@ -101,6 +101,7 @@ include("mutablesmallvector.jl")
 include("packedvector.jl")
 include("smalldict.jl")
 include("smallset.jl")
+include("smallpriorityqueue.jl")
 
 include("combinatorics.jl")
 
